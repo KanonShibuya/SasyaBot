@@ -1,4 +1,4 @@
-## zoro Bot Powered By lua
+## Sasya Bot Powered By Asyaa
 
 - If you facing some issue, just open Issues on github page
 
@@ -15,38 +15,6 @@
 > I opened discussiond for asking any problem or new feature, if i agree with that i will invite you in my repo/pull request your idea in this source code :)
 ---------
 # Installation
-
-### Deploy to heroku
-
- Fork the repo
- 
- <a href='https://github.com/xxirfanx/zoromd/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/fork repo-000?style=for-the-badge&logo=github&logoColor=white'/></a>
-
-
-### Deploy to Replit
-[![Run on Repl.it](https://repl.it/badge/github/xxirfanx/zoromd)](https://repl.it/github/xxirfanx/zoromd)
-
-Language Search/Type `nix Bash` Don't nodejs
-
-add forget [uptimerobot click](https://uptimerobot.com)
-
-### RUN ON REPLIT
-1. Visit the web [this](https://replit.com)
-2. Login or register
-3. Press Create Repl
-4. Press `import for github`
-5. Search for this Repo or type in `xxirfanx/zoromd`
-6. Language Search/Type `nix Bash` Don't nodejs
-7. Press `Import from Github`
-8. Edit `config.js` replace the owner number with another number or edit
-9. Swipe Right from the post `Shell` then click
-10. type `npm install` to install modules
-11. Wait until the module install process is complete
-12. Run the Bot by typing this
-13. add forget [uptimerobot click](https://uptimerobot.com)
-```bash
-node . --server
-```
 
 ---------
 
@@ -75,10 +43,6 @@ node .
 ### `--self`
 
 Activate self mode (Ignores other)
-
-### `--server`
-
-Used for [heroku](https://heroku.com/) or scan through website
 
 ### `--db`
 
